@@ -156,6 +156,6 @@ $RECYCLE.BIN/
 
 # Extra
 .env
-testfiles
+testfiles/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,pycharm,venv
