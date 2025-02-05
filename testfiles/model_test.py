@@ -1,7 +1,7 @@
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_openai import ChatOpenAI
 from langchain_core.documents import Document
-from shared.prompt_templates import prompt_template
+from app.shared.prompt_templates import prompt_template
 from testfiles.article_extract import document
 
 # LangChain 초기화
