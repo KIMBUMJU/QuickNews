@@ -14,3 +14,4 @@ langchain-core
 langgraph>0.2.27
 langchain-openai
 lxml[html_clean]
+lxml.html.clean
